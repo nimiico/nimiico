@@ -2,9 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nima-eslami/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-EF1ABD?logo=instagram&logoColor=white&link=https://instagram.com/_nimaeslami/)](https://www.instagram.com/_nimaeslami/)
-[![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=white)](mailto:hejazizo@ualberta.ca)
-[![Website Badge](https://img.shields.io/badge/-Website-FFC100?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=white)](mailto:nimaeslami206@gmail.com)
+[![Github](https://img.shields.io/github/followers/nimiico?label=Follow&style=social)](https://github.com/nimiico)
 
 - 💻 Owner of [**PyTopia**](https://github.com/pytopia). Check it out for daily Python and Machine Learning contents at [pytopia.ai](pytopia.ai).
 - 🌱 I teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
