@@ -2,8 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nima-eslami/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-EF1ABD?logo=instagram&logoColor=white&link=https://instagram.com/_nimaeslami/)](https://www.instagram.com/_nimaeslami/)
-[![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=blue)](mailto:hejazizo@ualberta.ca)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
+[![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=white)](mailto:hejazizo@ualberta.ca)
+[![Website Badge](https://img.shields.io/badge/-Website-FFC100?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
 - 💻 Owner of [**PyTopia**](https://github.com/pytopia). Check it out for daily Python and Machine Learning contents at [pytopia.ai](pytopia.ai).
