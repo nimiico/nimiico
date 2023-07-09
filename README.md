@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nima-eslami-04197024b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-EF1ABD?logo=instagram&logoColor=white&link=https://instagram.com/_nimaeslami/)](https://www.instagram.com/_nimaeslami/)
-[![Telegram](https://img.shields.io/badge/-Telegram-31C8FF?style=flat&logo=Telegram&logoColor=white)](mailto:nima_eslami.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-31C8FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/nima_eslami)
 [![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=white)](mailto:nimaeslami206@gmail.com)
 [![Github](https://img.shields.io/github/followers/nimiico?label=Follow&style=social)](https://github.com/nimiico)
 
