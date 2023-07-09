@@ -1,7 +1,7 @@
 # Nima Eslami
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nima-eslami/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=white&link=https://instagram.com/_nimaeslami/)](https://www.instagram.com/_nimaeslami/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-lilac?logo=instagram&logoColor=white&link=https://instagram.com/_nimaeslami/)](https://www.instagram.com/_nimaeslami/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hejazizo@ualberta.ca)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
