@@ -1,6 +1,6 @@
 # Nima Eslami
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nima-eslami-04197024b/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nima-eslami-49a401285/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-EF1ABD?logo=instagram&logoColor=white&link=https://instagram.com/_nimaeslami/)](https://www.instagram.com/_nimaeslami/)
 [![Telegram](https://img.shields.io/badge/-Telegram-31C8FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/nima_eslami)
 [![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=white)](mailto:nimaeslami206@gmail.com)
