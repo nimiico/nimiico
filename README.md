@@ -14,8 +14,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-B2A7BA?style=flat-square&logo=Python&logoColor=white&color=3C6AA0&)  
 ![Bootstrap](https://img.shields.io/badge/-C++-B2A7BA?style=flat-square&logo=C&logoColor=white&color=9FB1C6)
-![Bootstrap](https://img.shields.io/badge/-Csharp-B2A7BA?style=flat-square&logo=c-sharp&logoColor=white&color=10B85D)
-![Bootstrap](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=white&color=000000)
 ![Bootstrap](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin&logoColor=white&color=6E3BF7)
 ![Bootstrap](https://img.shields.io/badge/-Android_Studio-05122A?style=flat-square&logo=androidstudio&logoColor=white&color=2AC643)
 ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5&logoColor=white&color=E13232)
